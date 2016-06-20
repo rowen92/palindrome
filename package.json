@@ -1,0 +1,19 @@
+{
+  "name": "palindrome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "jsdoc": "^3.4.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.5.3"
+  },
+  "scripts": {
+    "test": "mocha test",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
