@@ -1,6 +1,6 @@
 const calc = require('./calc');
 
-const str = "ab bz zzzb ba"
+const str = 'ab bz zzzb ba';
 
 const result1 = calc.isFirstPalindrome(str);
 const result2 = calc.isSecondPalindrome(str);
