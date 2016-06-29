@@ -5,7 +5,7 @@
 
 ### Install
 ```sh
-$ git clone git@github.com:rowen92/factorial.git
+$ git clone git@github.com:rowen92/palindrome.git
 $ npm install
 ```
 
